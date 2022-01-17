@@ -9,4 +9,6 @@
 ---
 
 ## Project Description
-This repository contains code for Aardvark, our four wheeled Arduino robot. Aardvark's function is to autonomously route to the nearest WIFI router. By measuring the signal strength, and avoiding obstacles, Aardvark is able to navigate to the location of the wifi router.
+This repository contains code for Aardvark, our four wheeled Arduino robot. Aardvark's function is to autonomously route to the nearest WIFI router by using signal strength data and avoid obstacles by its ultrasonic sensors.
+
+![Aardvark](https://github.com/krishkpar/Aardvark-SE101/blob/main/aardvark_image.jpg?raw=true)
